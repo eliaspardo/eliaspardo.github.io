@@ -1,6 +1,6 @@
 ---
 title: "About"
 permalink: /about/
-layout: about
 author_profile: true
 ---
+Elias Pardo's personal site.
