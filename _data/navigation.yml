@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
   - title: "Blog Posts"
     url: /blog/
   - title: "Case Studies"
     url: /case-studies/
+  - title: "About"
+    url: /about/
