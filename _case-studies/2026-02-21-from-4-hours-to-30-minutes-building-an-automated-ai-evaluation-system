@@ -1,0 +1,10 @@
+---
+title: "From 4 hours to 30 minutes — Building an Automated AI Evaluation System"
+categories:
+  - AI
+tags:
+  - Evals
+  - Python
+---
+
+I built an open-source automated evaluation system for my RAG Chatbot using DeepEval and MLflow, reducing the evaluation cycle from 4 hours to 30 minutes while catching quality issues that manual testing missed.
