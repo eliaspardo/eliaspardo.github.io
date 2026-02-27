@@ -1,6 +1,7 @@
 ---
 title: "Case Studies"
 permalink: /case-studies/
-layout: posts
+layout: collection
+collection: case-studies
 author_profile: true
 ---
