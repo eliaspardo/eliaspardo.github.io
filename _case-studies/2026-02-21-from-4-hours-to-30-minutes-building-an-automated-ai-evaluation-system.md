@@ -37,7 +37,7 @@ While MLflow was a really good addition, there was no way to easily compare full
 
 - Parent / child run approach was used in which every pytest execution created a parent run and each of the evals ran was a child run.
 - Extended MLflow with a side-by-side comparison page. The user enters parent runs and metrics, clicks load, and all child run results are visualized. Clicking on particular evals loads all relevant information.
-![A side by side comparison page showing results for two AI Evaluation runs.](/assets/mlflow_comparsion.png)
+![A side by side comparison page showing results for two AI Evaluation runs.](/assets/images/case-studies/mlflow_comparsion.png)
 
 ### Test Definition as Code
 
@@ -50,7 +50,7 @@ Since these definitions are a fundamental part of the Evaluation System, I’m t
 ### Decoupling the Inference Providers
 
 When it comes to inference, running the application in production has very different requirements from those for evals. While for production you want something reasonably accurate and safe, you also need quick response times, relatively low token limit and temperature. In evals, accuracy is of utmost priority, but also instruction following, and formatting (JSON). For this reason, the inference configuration for the application and the Evaluation System was fully decoupled using a full set of variables. This enables the user to run a cheap and fast model for production and a stronger one for evals.
-![Shows a month-long AI inference cost graph.](/assets/inference_cost.png)
+![Shows a month-long AI inference cost graph.](/assets/images/case-studies/inference_cost.png)
 
 In this particular system, I generally run Mistral-7B-Instruct-v0.3 for production and Meta-Llama-3.1–70B-Instruct-Turbo for evals.
 As of Feb 19 2026, the prices for million tokens (input/output) were the following: $0.20 for Mistral and $0.88 for Llama.
