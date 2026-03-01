@@ -13,7 +13,9 @@ header:
       url: "https://github.com/eliaspardo"
 title: "Elias Pardo"
 excerpt: "Quality Engineer
+
 15+ years across Video, VR/MR & Sustainability
+
 Currently building AI-assisted quality systems and test infrastructure for API-driven backends<span id='blink-cursor'>_</span>"
 ---
 
