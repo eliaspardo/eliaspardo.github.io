@@ -29,13 +29,12 @@ excerpt: "Quality Engineer<br>15+ years defining what to test, how, and why it m
 }
 </style>
 
-## What I Do
-
-Focused on quality engineering systems: CI/CD-integrated pipelines, evaluation frameworks for AI systems, contract testing, and the infrastructure that allows teams to ship with more confidence.
+## What I do
+Currently specializing in quality systems for API-driven backends: CI pipelines, test strategies, environment infrastructure. More about my approach and trajectory [here](https://eliaspardo.github.io/about/).
 
 ##  Recent Builds
 
-Designed and implemented an automated AI evaluation system for RAG-based chatbots using DeepEval and MLflow — reducing evaluation cycles from 4 hours to 30 minutes. Currently working on a microservices-based RAG Chatbot as a vehicle for AI-powered testing research.
+Built an automated AI evaluation system that reduced review cycles from 4 hours to 30 minutes - read the [case study](https://eliaspardo.github.io/case-studies/2026-02-21-from-4-hours-to-30-minutes-building-an-automated-ai-evaluation-system/) on automating evals.
 
 ## Open To
 
