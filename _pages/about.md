@@ -10,9 +10,9 @@ Over the past 15 years I've worked across video streaming (Accedo, Verimatrix), 
 That background is what I'm now building on as I specialize in quality systems for API-driven backends: the CI pipelines, test strategies, and environment infrastructure that make teams confident in what they ship. I'm building hands-on depth in microservices testing and exploring how AI can make those systems smarter, from evaluating AI features to using AI to support quality decisions.
 
 ## How I see the role evolving
-For years QA teams were treated as gatekeepers, responsible for validating developers' work after the fact. I've always believed this model is inefficient and underutilizes experienced quality engineers.
+For years QA teams were treated as gatekeepers, responsible for validating developers' work after the fact. I've always believed this model is inefficient and underutilizes experienced quality engineers. I talked about this in my talk at the BrowserStack Meetup Madrid - [From Gatekeeper to  Enabler - My Journey to Modern QA](https://www.linkedin.com/posts/anusha-majidi_im-really-happy-to-share-that-yesterday-ugcPost-7376903365936476160--iV4)
 
-The direction I see the industry moving — especially with AI accelerating development — is toward quality engineers enabling teams rather than policing them. That means building testing infrastructure, improving feedback loops, and helping teams design systems that are testable from the start. Hell, perhaps even coaching devs! This looks a lot like what Atlassian does: Quality Assistance as explained in this excellent [talk](https://www.youtube.com/watch?v=yRP29wFqu20).
+The direction I see the industry moving — especially with AI accelerating development — is toward quality engineers enabling teams rather than policing them. That means building testing infrastructure, improving feedback loops, and designing systems that are testable from the start.
 
 
 ## What I've built

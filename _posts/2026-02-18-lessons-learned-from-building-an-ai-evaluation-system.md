@@ -69,9 +69,3 @@ With this evaluation framework when Together AI sends me an email saying they’
 If you want to build something yourself I would suggest starting small, spend time defining the metrics and finding out your requirements, and then work on building your fully fledged eval suite.
 
 Also, checkout my repo if you want some inspiration: https://github.com/eliaspardo/rag-chatbot
-
-### Task Lists
-
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
