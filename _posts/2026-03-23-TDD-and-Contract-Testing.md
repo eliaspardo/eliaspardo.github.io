@@ -38,4 +38,4 @@ If you're optimizing for short-term velocity, TDD will feel expensive. If you're
 
 This is the way.
 
-!(/assets/images/this_is_the_way.jpeg)
+!(/assets/images/this_is_the_way.jpg)
