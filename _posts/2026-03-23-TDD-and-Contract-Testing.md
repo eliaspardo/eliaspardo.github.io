@@ -37,4 +37,5 @@ The slowness and the confusion are an investment. Time spent in upfront thinking
 If you're optimizing for short-term velocity, TDD will feel expensive. If you're looking for quality software, it's definitely worth the effort.
 
 This is the way.
+
 ![This is the way](/assets/images/this_is_the_way.png)
